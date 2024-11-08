@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "https://caiacosmetics.se/img/bilder/artiklar/zoom/CAI277_1.jpg?m=1632307278",
+        "name": "BB-Stick",
+        "price": 345,
+        "stock": 29
+    },
+    {
+        "id": 2, 
+        "imgSrc": "https://caiacosmetics.se/img/bilder/artiklar/zoom/CAI608_1.jpg?m=1655823703&w=942",
+        "name": "That Dewy Hydration Duo",
+        "price": 420,
+        "stock": 13
+    },
+    {
+        "id": 3,
+        "imgSrc": "https://caiacosmetics.se/img/bilder/artiklar/zoom/CAI202_1.jpg?m=1706187979&w=942",
+        "name": "Bronzer Gold Coast",
+        "price": 395,
+        "stock": 119
+    },
+    {
+        "id": 4,
+        "imgSrc": "https://caiacosmetics.se/img/bilder/artiklar/zoom/CAI169_1.jpg?m=1624355505&w=942",
+        "name": "Highlighter Portofino",
+        "price": 395,
+        "stock": 4
+    },
+    {
+        "id": 5,
+        "imgSrc": "https://caiacosmetics.se/img/bilder/artiklar/zoom/CAI209_1.jpg?m=1712671173&w=942",
+        "name": "Blush Rasberry Passion",
+        "price": 265,
+        "stock": 0
+    },
+    {
+        "id": 6,
+        "imgSrc": "https://caiacosmetics.se/img/bilder/artiklar/zoom/CAI475_1.jpg?m=1714639045&w=942",
+        "name": "Lip pencil Pink Blossom",
+        "price": 145,
+        "stock": 50
+    }
+    
+]
