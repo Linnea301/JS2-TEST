@@ -1,0 +1,22 @@
+#navDiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+#searchSortDiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+#itemImg {
+    width: 300px;
+}
+
+#itemDiv {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#cartImg {
+    width: 70px;
+}
